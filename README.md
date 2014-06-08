@@ -13,6 +13,8 @@
   Oracle VM VirtualBox Manager 4.3.12  
   Vagrant 1.6.3  
   Packer v0.6.0  
+  ruby 2.1.2  
+  Macos 10.9.3  
 
 # 操作
 
@@ -38,19 +40,19 @@ vagrant/Vagrantfile-001 を使って provison すろと、 httpd, php, postgres 
   Packer で Vagrant 用仮想マシン (base box) を作成する (2014-03-16)  
 
 - https://access.redhat.com/site/documentation/ja-JP/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html  
-  > 第32章 キックスタートインストール  
+  第32章 キックスタートインストール  
 
 - http://qiita.com/shin1x1/items/3288d9de7f04192b6ad8  
-  > Vagrant体験入門ハンズオン手順 - 2014/04/24 DevLove関西  
+  Vagrant体験入門ハンズオン手順 - 2014/04/24 DevLove関西  
 
 - http://www.1x1.jp/blog/2014/04/vagrant-handson-in-devlove-kansai.html  
-  > Vagrant体験入門ハンズオンの資料を公開します  
-  >>   http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_centos-6.5_chef-provisionerless.box  
+  Vagrant体験入門ハンズオンの資料を公開します  
+  ＞＞   http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_centos-6.5_chef-provisionerless.box  
 
 - http://qiita.com/hmukaida/items/23bf728ac08c8fa31f5c  
-  > Vagrant+CentOS6.5+Apache2+PHP5.3+PostgreSQL9.3 on Mac の環境を構築する (上の続き)  
+  Vagrant+CentOS6.5+Apache2+PHP5.3+PostgreSQL9.3 on Mac の環境を構築する (上の続き)  
 
 - http://shin1x1.github.io/vagrantx/  
-  > the Vagrant GUI client for Mac OS X  
-  
+  the Vagrant GUI client for Mac OS X  
+
 //--- End of File ---
